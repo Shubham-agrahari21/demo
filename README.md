@@ -1,3 +1,3 @@
 # project
-calculater
+calculator
 
